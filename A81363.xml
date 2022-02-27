@@ -1,0 +1,181 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A designe by Captain Barley, and others, to surprize Carisbrook Castle, in the Isle of Wyght, where his Majesty now is. With the proceedings of Colonel Hammond against them, Captain Barley, and some others of the chief actors taken prisoners, who are to be tryed for their lives by Martiall Law. Also some proceedings in Parliament, concerning the King. (who is in Carisbrook Castle) for the security of His Person. January 1. 1647. Imprimatur Gilbert Mabbott.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81363</idno>
+            <idno type="STC">Wing D1175</idno>
+            <idno type="STC">Thomason E421_24</idno>
+            <idno type="STC">ESTC R204767</idno>
+            <idno type="EEBO-CITATION">99864229</idno>
+            <idno type="PROQUEST">99864229</idno>
+            <idno type="VID">161374</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A81363)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 161374)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 66:E421[24])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A designe by Captain Barley, and others, to surprize Carisbrook Castle, in the Isle of Wyght, where his Majesty now is. With the proceedings of Colonel Hammond against them, Captain Barley, and some others of the chief actors taken prisoners, who are to be tryed for their lives by Martiall Law. Also some proceedings in Parliament, concerning the King. (who is in Carisbrook Castle) for the security of His Person. January 1. 1647. Imprimatur Gilbert Mabbott.</title>
+               </titleStmt>
+               <extent>[2], 5 (i.e 6) p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Robert Ibbitson in Smithfield, neere the Queens-head Tavern,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: show-through of text.</note>
+                  <note>Annotations on Thomason copy: "1647"; the "8" in the imprint has been crossed out.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649 --  Captivity, 1647-1649 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-11</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-11</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:161374:1"/>
+            <pb facs="tcp:161374:1" rendition="simple:additions"/>
+            <p>A DESIGNE BY Captain <hi>Barley,</hi> and others, to ſurprize <hi>Carisbrook Caſtle,</hi> in the <hi>Iſle of Wyght,</hi> where His MAJESTY now is.</p>
+            <p>WITH The proceedings of Colonel <hi>Hammond againſt them, Captain</hi> Barley, <hi>and ſome others</hi> of the chief Actors taken priſoners, who are to be tryed for their lives by Martiall Law.</p>
+            <p>ALSO Some proceedings in Parliament, <hi>con<g ref="char:EOLhyphen"/>cerning the KING.</hi> (<hi>who is in</hi> Cariſ<g ref="char:EOLhyphen"/>brook Caſtle) for the ſecurity of His PERSON.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <opener>
+                           <dateline>
+                              <date>January 1. 1647.</date>
+                           </dateline>
+                        </opener>
+                        <p>Imprimatur</p>
+                        <closer>
+                           <signed>Gilbert Mabbott.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Robert Ibbitſon</hi> in <hi>Smithfield,</hi> neere the Queens-head Tavern. 1648. <add>1649</add>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:161374:2"/>
+            <pb n="1" facs="tcp:161374:2"/>
+            <head>A Deſigne by Captain BARLEY <hi>and others, to have ſurprized Carisbrook</hi> Caſtle, in the Iſle of Wyght, where His Majeſty now is.</head>
+            <p>ON <hi>Wedneſday December</hi> 29. 1647. Some Malignants formerly of the Kings Army intended to have ſurprized the Caſtle in this Iſland, to have either kept it for the King, or carried His Majeſty to <hi>Jarſey</hi> Iſland.</p>
+            <p>The cheif of theſe Plotters was Captaine <hi>Barley</hi> formerly Governor at <hi>Pendenis</hi> for the King againſt the Parliament, an active Malig<g ref="char:EOLhyphen"/>nant, and one who hath been very active and was now Captain of a Ship, with others who came into this Iſland to ſtirre up all ſuch as they could heer, to riſe and joyne in Armes with them to perfect their Rebellious de<g ref="char:EOLhyphen"/>ſigne.</p>
+            <p>By command from Collonell <hi>Barley</hi> and
+<pb n="2" facs="tcp:161374:3"/>the reſt, Drummes were beaten for the raiſ<g ref="char:EOLhyphen"/>ing of men and they declared for the King, and had ſome came in to them, ſo that they intended to have ſurprized the Caſtle where His Majeſty then was.</p>
+            <p>But the Mayor of <hi>Newport</hi> and ſome o<g ref="char:EOLhyphen"/>thers, indeavoured what they could to hin<g ref="char:EOLhyphen"/>der this moſt dangerous deſigne, and Col<g ref="char:EOLhyphen"/>lonell <hi>Hammond</hi> having notice of it, as alſo Captaine Basket the Governour of the Caſtle, there were all poſſible meanes that could be uſed to ſuppreſſe them.</p>
+            <p>Colonell Hammond ſent Letters to the Commanders of the Horſe who came to ſe<g ref="char:EOLhyphen"/>cure that Iſland, appointed by His Excel<g ref="char:EOLhyphen"/>lency Sir Thomas Fairfax, to have aide pre<g ref="char:EOLhyphen"/>ſently ſent over.</p>
+            <p>Captain Basket the Governour of Cowes Caſtle ſent alſo Letters to the Commanders of the Parliament ſhips, who were riding neere thoſe parts for the guard of that Iſland for releif from them alſo, not knowing what this deſigne might come to, for Captaine Barley and the reſt of the Rebels that riſe, went ſtill on in their deſigne to ſurprize the Caſtle and the Iſland.</p>
+            <pb n="3" facs="tcp:161374:3"/>
+            <p> About 11 a clock that night a Letter came to the Commanders of the Parliaments ſhips from Captain Basket, of Cowes Caſtle in the ſaid Iſle of Wight, by which Letter they were advertized, that the Governour of the Iſle of Wight was (that night) beſeig<g ref="char:EOLhyphen"/>ed by ſome formerly of the Kings party, that had been in Armes againſt the Parliament: and that it was feared that the Hollanders then riding there at Anker might be inga<g ref="char:EOLhyphen"/>ged with them (but for that it afterwards ap<g ref="char:EOLhyphen"/>peared that they were not, and they have ſhewed great willingneſſe afterwards to cleare themſelves therein,) and that alſo di<g ref="char:EOLhyphen"/>vers of the Iſlanders were joyned with them.</p>
+            <p>Hereupon the Commanders of five ſhips of the Parliaments, <hi>viz.</hi> Captaine Jordaine, Captaine Penroſſe, Captaine Jervis, Cap<g ref="char:EOLhyphen"/>taine Mildmay, Captaine Legent, called a Councell of Warre to conſult preſently on this buſineſſe for relife of the Iſland, and the ſouldery for the Parliament againſt the power of the Plotters.</p>
+            <p n="1">1 And it was reſolved (in councell that all poſſible aſſiſtance ſhould be ſpeedily given
+<pb n="4" facs="tcp:161374:4"/>to Collonell Hammond Governour of the Iſle of Wight for the Parliament againſt thoſe who had riſen there in oppoſition to the power of Parliament.</p>
+            <p n="2">2 That thoſe ſeverall ſhips for the Parli<g ref="char:EOLhyphen"/>ament ſhould be diſpoſed in ſuch ſtations as might beſt prevent the putting off of boates to or from the Iſland without ſearch.</p>
+            <p n="3">3 That the Iſland may be ſecured from all inconveniences by the ſhips then riding neere the Iſland, and all others as much as may be.</p>
+            <p>And accordingly the Commanders of the ſhips addreſſed themſelves for the per<g ref="char:EOLhyphen"/>fecting of ſpeedy reliefe,</p>
+            <p>On Thurſday Decemb. 30. The Captains of the five ſhips for the Parliament, had in<g ref="char:EOLhyphen"/>formations by expreſſes, that the aforeſaid Captaine Barley and other three of the cheif Mutiners, were apprehended &amp; priſoners in Carisbrook Caſtle. And the Mayor of New<g ref="char:EOLhyphen"/>port and other of the Magiſtrates had done very good ſervice in aſſiſting Collonel Ham<g ref="char:EOLhyphen"/>mond, and that there was ſome appeaſing of the buſineſſe.</p>
+            <pb n="5" facs="tcp:161374:4"/>
+            <p> Alſo an hundred men were landing upon the Iſland and an hundred more going from Portſmouth after them for further releife if occaſion were.</p>
+            <div type="part">
+               <opener>
+                  <dateline>
+                     <date>January 1. 1647.</date>
+                  </dateline>
+               </opener>
+               <p>A Letter this day from the Governour of the Iſle of Wyght, concerning a deſigne for a ſur<g ref="char:EOLhyphen"/>prize of the Caſtle of Carisbrook, where the King now is, by Captain Barley and others, was this day read.</p>
+               <p>A Letter from ſome Commanders of the Parlia<g ref="char:EOLhyphen"/>ments ſhips riding in the Mawes, Dated Decemb. <hi>30.</hi> concerning a deſigne of ſurprizing of Cariſ<g ref="char:EOLhyphen"/>brook Caſtle, by Captain Barley and others, was read.</p>
+               <p>The Houſe upon conſideration of this buſineſſe, Ordered, That a Conmiſsion for Martiall Law be given to the Governour of the Iſle of Wyght, for the Tryall of the ſaid Captain Barley, and the reſt of the chiefe Mutiners in this buſineſſe.</p>
+               <p>A Meſſage this day came from the Lords where<g ref="char:EOLhyphen"/>by the Lords returned ſome Amendments to the Or<g ref="char:EOLhyphen"/>ders yeſterday, ſent up by the Houſe of Commons,
+<pb n="5" facs="tcp:161374:5"/>to authoriſe his Excellency, and the Governour of the Iſle of Wyght (in order to his Excellencies di<g ref="char:EOLhyphen"/>rections therein) for the ſecurity of the Kings per<g ref="char:EOLhyphen"/>ſon, which Orders were to this effect, viz</p>
+               <p>That the Lords and Commons doe approve of what the Generall hath done concerning the ſafety and ſecurity thereof, in the place where he now is: And the Lords and Commons doe further Order, that the Governour of the Iſle of Wyght, be hereby authorized to take eſpeciall care for the ſecurity and ſafety of the Kings perſon, where now he is, and that he doth obſerve ſuch orders and directions here<g ref="char:EOLhyphen"/>in as he ſhall receive from his Excellency, or both Houſes of Parliament. And that theſe Votes be diſpatched away to his Excellency, and the Gover<g ref="char:EOLhyphen"/>nour of the Iſle of Wyght, accordingly.</p>
+               <p>Alſo that the thanks of this Houſe be given to the Mayor of New-port, and to the well-affected Inhabitants there, for their care and good affecti<g ref="char:EOLhyphen"/>ons expreſſed in the late Mutiny, and inſurrection in that Town raiſed by Captain Barley and others.</p>
+            </div>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
